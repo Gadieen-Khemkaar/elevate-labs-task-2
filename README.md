@@ -16,8 +16,7 @@ SQLite Studio / DB Fiddle
 
 ## Files Included
 
-* `task2_data_insertion.sql` – SQL script for all operations
-* `screenshots/` – output screenshots from DB Fiddle
+* `main.sql` – SQL script for all operations
 * `README.md` – explanation of task
 
 ## Outcome
